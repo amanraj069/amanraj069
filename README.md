@@ -79,8 +79,8 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
 
 <div align="center">
   <!-- Primary Stats -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amanraj069&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=amanraj069&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amanraj069&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=amanraj069&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
 <!-- Alternative Stats -->
