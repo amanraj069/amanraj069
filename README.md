@@ -78,14 +78,15 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
 ## 📊 GitHub Statistics:
 
 <div align="center">
-  <!-- Primary Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=amanraj069&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=amanraj069&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=amanraj069&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </div>
-<!-- Alternative Stats -->
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanraj069&theme=tokyonight" alt="Profile Summary" />
+  <img width="80%" src="https://streak-stats.demolab.com/?user=amanraj069&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanraj069&theme=tokyonight" alt="Profile Summary" />
 </div>
 
 <!--<div align="center">
@@ -94,7 +95,7 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
 </div>
 -->
 <div align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=amanraj069&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="Activity Graph" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=amanraj069&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="Activity Graph" />
 </div>
 
 ---
