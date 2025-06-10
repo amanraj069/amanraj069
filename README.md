@@ -1,5 +1,3 @@
-# Hi there, I'm Aman Raj! 👋
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=Hey,+I'm+Aman+Raj;Full+Stack+%7C+DL+%7C+Cloud+Engineer;Building+the+Future+with+Code" alt="Typing SVG" />
 </div>
@@ -18,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me:
 
 I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, **Deep Learning**, and **Cloud Engineering**. I love building innovative solutions that make a real impact.
 
@@ -33,7 +31,7 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -66,7 +64,7 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects:
 
 | 🎯 Project | 📝 Description | 💻 Tech Stack |
 |-----------|---------------|---------------|
@@ -78,7 +76,7 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics:
 
 <div align="center">
   <!-- Primary Stats -->
@@ -106,7 +104,7 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Achievements:
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amanraj069&theme=algolia&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
@@ -114,7 +112,7 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
 
 ---
 
-## 📈 Development Breakdown
+## 📈 Development Breakdown:
 
 <!--START_SECTION:waka-->
 ```text
@@ -127,7 +125,7 @@ CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Focusing on:
 
 - 🔭 Working on **Next.js 14** and **Server Actions**
 - 🌱 Learning **Kubernetes** and **Microservices Architecture**
@@ -146,12 +144,6 @@ CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░
   <a href="mailto:amanraj3567@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/amanraj069">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://dev.to/amanraj069">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
-  </a>
   <a href="https://github.com/amanraj069">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -169,8 +161,3 @@ CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
 </div>
 
----
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/amanraj069">amanraj069</a></i>
-</div>
