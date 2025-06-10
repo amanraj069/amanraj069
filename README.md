@@ -79,7 +79,7 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
 
 <div align="center">
   <!-- Primary Stats -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amanraj069&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amanraj069&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 <!--   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanraj069&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117" alt="Top Languages" /> -->
 </div>
 <div align="center">
