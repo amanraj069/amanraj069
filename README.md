@@ -50,7 +50,6 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -64,14 +63,13 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-| 🎯 Project | 📝 Description | 💻 Tech Stack | 🔗 Links |
-|-----------|---------------|---------------|----------|
+| 🎯 Project | 📝 Description | 💻 Tech Stack |
+|-----------|---------------|---------------|
 | **🔗 JewelAssure** | Blockchain-based DApp to verify jewelry authenticity on-chain | Solidity, React, Web3.js |
 | **📈 Stock Price Predictor** | LSTM-powered app predicting stock trends using historical data | Python, TensorFlow, Streamlit |
 | **🌾 Crop Yield Predictor** | ML model estimating crop yields from real-world datasets | Python, Scikit-learn, Flask |
@@ -83,16 +81,27 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amanraj069&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanraj069&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <!-- Primary Stats -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amanraj069&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanraj069&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+<div align="center">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=amanraj069&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+<!-- Alternative Stats (uncomment if primary ones don't work) -->
+<!--
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanraj069&theme=tokyonight" alt="Profile Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanraj069&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amanraj069&theme=tokyonight" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanraj069&theme=tokyonight" alt="Most Commit Language" />
 </div>
-
+-->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanraj069&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanraj069&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="Activity Graph" />
 </div>
 
 ---
