@@ -26,12 +26,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/aws/aws-original.svg" width="40"/>
 </p>
 
 ---
 
-### 🚀 Projects
+### 🚀 Public Projects on Profile
 
 | Project | Description |
 |--------|-------------|
@@ -43,7 +43,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Current GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amanraj069&show_icons=true&theme=tokyonight&count_private=true" height="160" />
@@ -59,7 +59,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amanraj069&theme=algolia&no-bg=true&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amanraj069&theme=algolia&no-bg=true&no-frame=true&column=5" />
 </p>
 
 ---
@@ -67,4 +67,4 @@
 ### 🙌 Let’s Connect!
 
 - 💬 DM me on [LinkedIn](https://www.linkedin.com/in/amanraj-iiits)
-- 📨 Mail: **amanraj069@gmail.com**
+- 📨 Mail: **amanraj3567@gmail.com**
