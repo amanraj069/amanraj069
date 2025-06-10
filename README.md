@@ -1,61 +1,70 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=540&height=80&lines=Hi+%F0%9F%91%8B+I'm+Aman+Raj;Deep+Learning+%7C+Backend+%7C+Blockchain+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B+I'm+Aman+Raj;Full+Stack+%7C+DL+%7C+Backend+%7C+Blockchain+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 About Me
-- :contentReference[oaicite:2]{index=2}
-- :contentReference[oaicite:3]{index=3}
-- :contentReference[oaicite:4]{index=4}
-- :contentReference[oaicite:5]{index=5}
-- :contentReference[oaicite:6]{index=6}
+### 👨‍💻 About Me
+
+- 🧠 I'm a **Full Stack Developer** experienced in **MERN**
+- 🚀 I’m passionate about **Deep Learning**, **UI/UX**, and **Smart Contracts**
+- ☁️ Comfortable with **AWS**, **Google Cloud**, and containerized deployments
+- 🎯 Always looking to collaborate on impactful projects
+- 📍 Based in **Patna, Bihar, India**
+- 📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/amanraj-iiits)
 
 ---
 
-### 🔧 Languages & Tools
+### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
 </p>
 
 ---
 
-### 💼 Projects Highlight
+### 🚀 Projects
 
 | Project | Description |
 |--------|-------------|
-| **JewelAssure** | :contentReference[oaicite:7]{index=7} :contentReference[oaicite:8]{index=8} |
-| **Stock Price Predictor** | LSTM-powered Python app predicting stock trends :contentReference[oaicite:9]{index=9} |
-| **Crop Yield Predictor** | ML model estimating crop yield using real-world datasets :contentReference[oaicite:10]{index=10} |
-| **Resume Screening Tool** | Python script automating candidate resume screening :contentReference[oaicite:11]{index=11} |
-| **Witch’s Curse** | Global Game Jam 2025 entry – creative indie game project :contentReference[oaicite:12]{index=12} |
+| **JewelAssure** | Blockchain-based DApp to verify jewelry authenticity on-chain |
+| **Stock Price Predictor** | LSTM-powered app predicting stock trends using historical data |
+| **Crop Yield Predictor** | ML model estimating crop yields from real-world datasets |
+| **Resume Screener** | NLP tool to evaluate resumes based on job descriptions |
+| **Witch’s Curse** | A creative indie game developed for Global Game Jam |
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanraj069&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanraj069&hide=html,css&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amanraj069&show_icons=true&theme=tokyonight&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanraj069&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanraj069&theme=tokyonight&hide_border=false" height="160" />
 </p>
 
 ---
 
-### 🎯 Fun Fact
+### 🏆 GitHub Trophies
 
-I thrive on turning ideas into projects—whether it's predicting stock trends or securing jewelry authenticity!
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amanraj069&theme=algolia&no-bg=true&no-frame=true&column=7" />
+</p>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/amanraj069">
-    <img src="https://komarev.com/ghpvc/?username=amanraj069&style=flat-square&color=00BFFF" alt="Profile Views" />
-  </a>
-</p>
+### 🙌 Let’s Connect!
+
+- 💬 DM me on [LinkedIn](https://www.linkedin.com/in/amanraj-iiits)
+- 📨 Mail: **amanraj069@gmail.com**
