@@ -21,7 +21,7 @@
 I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, **Deep Learning**, and **Cloud Engineering**. I love building innovative solutions that make a real impact.
 
 - 🧠 **Full Stack Developer** experienced in **MERN Stack**
-- 🚀 Passionate about **Deep Learning**, **UI/UX Design**, and **Smart Contracts**
+- 🚀 Passionate about **Deep Learning** and **UI/UX Design**
 - ☁️ Cloud enthusiast working with **AWS**, **Google Cloud**, and **containerized deployments**
 - 🎯 Always looking to collaborate on **impactful open-source projects**
 - 📍 Based in **Patna, Bihar, India**
@@ -86,13 +86,13 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=amanraj069&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
-<!-- Alternative Stats (uncomment if primary ones don't work) -->
+<!-- Alternative Stats -->
 <!--
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanraj069&theme=tokyonight" alt="Profile Summary" />
 </div>
 
-<div align="center">
+<!--<div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amanraj069&theme=tokyonight" alt="Repos per Language" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanraj069&theme=tokyonight" alt="Most Commit Language" />
 </div>
