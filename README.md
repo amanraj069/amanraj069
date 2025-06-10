@@ -1,30 +1,28 @@
-<p align="center">
+# Hi there, I'm Aman Raj! 👋
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=Hey,+I'm+Aman+Raj;Full+Stack+%7C+DL+%7C+Cloud+Engineer;Building+the+Future+with+Code" alt="Typing SVG" />
-</p>
+</div>
 
 <p align="center">
-  <a href="https://github.com/amanraj069">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=amanraj069&style=flat-square&color=blue" />
-  </a>
-  <a href="https://github.com/amanraj069?tab=repositories">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/amanraj069?style=social" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=amanraj069&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/amanraj069?style=social" alt="GitHub Stars" />
   <a href="https://www.linkedin.com/in/amanraj-iiits">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-Aman%20Raj-blue?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Aman%20Raj-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:amanraj3567@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-amanraj3567@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-amanraj3567@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/amanraj069?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/amanraj069?style=social" />
-  </a>
+  <img src="https://img.shields.io/github/followers/amanraj069?style=social" alt="GitHub Followers" />
 </p>
 
 ---
 
-### 🔒 About Me
+## 🚀 About Me
 
-- 🧠 I'm a **Full Stack Developer** experienced in **MERN Stack**
+I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, **Deep Learning**, and **Cloud Engineering**. I love building innovative solutions that make a real impact.
+
+- 🧠 **Full Stack Developer** experienced in **MERN Stack**
 - 🚀 Passionate about **Deep Learning**, **UI/UX Design**, and **Smart Contracts**
 - ☁️ Cloud enthusiast working with **AWS**, **Google Cloud**, and **containerized deployments**
 - 🤖 Currently exploring **AI/ML applications** and **Web3 technologies**
@@ -35,87 +33,79 @@
 
 ---
 
-### ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend:**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
-</p>
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend & Database:**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
-</p>
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**DevOps & Cloud:**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-</p>
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-**Programming Languages:**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" />
-</p>
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **🔗 JewelAssure** | Blockchain-based DApp to verify jewelry authenticity on-chain | Solidity, React, Web3.js | [Demo](#) • [Code](#) |
-| **📈 Stock Price Predictor** | LSTM-powered app predicting stock trends using historical data | Python, TensorFlow, Streamlit | [Demo](#) • [Code](#) |
-| **🌾 Crop Yield Predictor** | ML model estimating crop yields from real-world datasets | Python, Scikit-learn, Flask | [Demo](#) • [Code](#) |
-| **📄 Resume Screener** | NLP tool to evaluate resumes based on job descriptions | Python, NLTK, Streamlit | [Demo](#) • [Code](#) |
-| **🎮 Witch's Curse** | Creative indie game developed for Global Game Jam | Unity, C# | [Play](#) • [Code](#) |
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanraj069&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanraj069&layout=compact&theme=tokyonight&langs_count=8" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanraj069&theme=tokyonight&hide_border=false" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanraj069&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+| 🎯 Project | 📝 Description | 💻 Tech Stack | 🔗 Links |
+|-----------|---------------|---------------|----------|
+| **🔗 JewelAssure** | Blockchain-based DApp to verify jewelry authenticity on-chain | Solidity, React, Web3.js |
+| **📈 Stock Price Predictor** | LSTM-powered app predicting stock trends using historical data | Python, TensorFlow, Streamlit |
+| **🌾 Crop Yield Predictor** | ML model estimating crop yields from real-world datasets | Python, Scikit-learn, Flask |
+| **📄 Resume Screener** | NLP tool to evaluate resumes based on job descriptions | Python, NLTK, Streamlit |
+| **🎮 Witch's Curse** | Creative indie game developed for Global Game Jam | Unity, C# |
 
 ---
 
-### 🏆 GitHub Achievements
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amanraj069&theme=algolia&no-bg=true&no-frame=true&column=6&margin-w=10&margin-h=10" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amanraj069&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanraj069&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanraj069&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanraj069&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</div>
 
 ---
 
-### 📈 Weekly Development Breakdown
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amanraj069&theme=algolia&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Development Breakdown
 
 <!--START_SECTION:waka-->
 ```text
@@ -128,38 +118,50 @@ CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░
 
 ---
 
-### 🎯 Current Focus
+## 🎯 Current Focus
 
 - 🔭 Working on **Next.js 14** and **Server Actions**
 - 🌱 Learning **Kubernetes** and **Microservices Architecture**
 - 👯 Looking to collaborate on **Open Source ML Projects**
 - 💬 Ask me about **MERN**, **Deep Learning**, or **Cloud Architecture**
+- 📫 How to reach me: **amanraj3567@gmail.com**
 
 ---
 
-### 🤝 Let's Connect & Collaborate!
+## 🤝 Let's Connect & Collaborate!
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/amanraj-iiits">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:amanraj3567@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://twitter.com/amanraj069">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://dev.to/amanraj069">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Open%20to%20opportunities%20and%20collaborations&descAlignY=51&descAlign=50" />
-</p>
+  <a href="https://github.com/amanraj069">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Open%20to%20opportunities%20and%20collaborations&descAlignY=51&descAlign=50" alt="Footer" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/amanraj069">amanraj069</a></i>
+</div>
