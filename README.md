@@ -23,7 +23,6 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
 - 🧠 **Full Stack Developer** experienced in **MERN Stack**
 - 🚀 Passionate about **Deep Learning**, **UI/UX Design**, and **Smart Contracts**
 - ☁️ Cloud enthusiast working with **AWS**, **Google Cloud**, and **containerized deployments**
-- 🤖 Currently exploring **AI/ML applications** and **Web3 technologies**
 - 🎯 Always looking to collaborate on **impactful open-source projects**
 - 📍 Based in **Patna, Bihar, India**
 - 🌱 Currently learning **Kubernetes** and **Microservices Architecture**
@@ -147,12 +146,6 @@ CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░
   <a href="https://github.com/amanraj069">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Open%20to%20opportunities%20and%20collaborations&descAlignY=51&descAlign=50" alt="Footer" />
 </div>
 
 ---
