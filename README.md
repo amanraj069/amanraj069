@@ -94,7 +94,7 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
 </div>
 -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanraj069&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="Activity Graph" />
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=amanraj069&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="Activity Graph" />
 </div>
 
 ---
