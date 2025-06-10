@@ -1,5 +1,20 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B+I'm+Aman+Raj;Full+Stack+%7C+DL+%7C+Backend+%7C+Blockchain+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=I'm+Aman+Raj;Full+Stack+%7C+DL+%7C+Backend+%7C+Blockchain+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/amanraj069">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=amanraj069&style=flat-square&color=blue" />
+  </a>
+  <a href="https://github.com/amanraj069?tab=repositories">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/amanraj069?style=social" />
+  </a>
+  <a href="https://www.linkedin.com/in/amanraj-iiits">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-Aman%20Raj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanraj-iiits/" />
+  </a>
+  <a href="mailto:amanraj3567@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-amanraj3567@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -26,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/aws/aws-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
 </p>
 
 ---
@@ -59,7 +74,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amanraj069&theme=algolia&no-bg=true&no-frame=true&column=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amanraj069&theme=algolia&no-bg=true&no-frame=true&column=4" />
 </p>
 
 ---
