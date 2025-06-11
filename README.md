@@ -2,8 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=Hey,+I'm+Aman+Raj;Full+Stack+%7C+DL+%7C+Cloud+Engineer;Building+the+Future+with+Code" alt="Typing SVG" />
 </div>
 
+<p align="center"> 
+  Visitors count
+<br>
+<img src="https://profile-counter.glitch.me/amanraj069/count.svg" />
+</p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanraj069&style=flat-square&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/github/stars/amanraj069?style=social" alt="GitHub Stars" />
   <a href="https://www.linkedin.com/in/amanraj-iiits">
     <img src="https://img.shields.io/badge/-Aman%20Raj-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -150,4 +155,3 @@ CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
 </div>
-
