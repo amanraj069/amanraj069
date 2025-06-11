@@ -8,6 +8,7 @@
 <img src="https://profile-counter.glitch.me/amanraj069/count.svg" />
 </p>
 
+<!--
 <p align="center">
   <img src="https://img.shields.io/github/stars/amanraj069?style=social" alt="GitHub Stars" />
   <a href="https://www.linkedin.com/in/amanraj-iiits">
@@ -18,6 +19,7 @@
   </a>
   <img src="https://img.shields.io/github/followers/amanraj069?style=social" alt="GitHub Followers" />
 </p>
+-->
 
 ---
 
@@ -128,11 +130,11 @@ CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░
 
 ## 🎯 Currently Focusing on:
 
-- 🔭 Working on **Next.js 14** and **Server Actions**
-- 🌱 Learning **Kubernetes** and **Microservices Architecture**
-- 👯 Looking to collaborate on **Open Source ML Projects**
-- 💬 Ask me about **MERN**, **Deep Learning**, or **Cloud Architecture**
-- 📫 How to reach me: **amanraj3567@gmail.com**
+- Working on **Next.js 14** and **Server Actions**
+- Learning **Kubernetes** and **Microservices Architecture**
+- Looking to collaborate on **Open Source Projects**
+- Ask me about **MERN**, **Deep Learning**, or **Cloud**
+- How to reach me: **amanraj3567@gmail.com**
 
 ---
 
