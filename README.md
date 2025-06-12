@@ -72,13 +72,12 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
 
 ## 🚀 Featured Projects:
 
-| 🎯 Project | 📝 Description | 💻 Tech Stack |
+|  Project |  Description | 💻 Tech Stack |
 |-----------|---------------|---------------|
-| **🔗 JewelAssure** | Blockchain-based DApp to verify jewelry authenticity on-chain | Solidity, React, Web3.js |
-| **📈 Stock Price Predictor** | LSTM-powered app predicting stock trends using historical data | Python, TensorFlow, Streamlit |
+| **🎯 Milestone** | Comprehensive freelancing ecosystem connecting employers, freelancers, and institutions through secure milestone-based payments. Features real-time chat, skill verification, and admin-led dispute resolution. | Node.js, Express.js, MongoDB |
+| **🎮 Witch's Curse** | Creative indie game developed for Global Game Jam | Unity, C# |
 | **🌾 Crop Yield Predictor** | ML model estimating crop yields from real-world datasets | Python, Scikit-learn, Flask |
 | **📄 Resume Screener** | NLP tool to evaluate resumes based on job descriptions | Python, NLTK, Streamlit |
-| **🎮 Witch's Curse** | Creative indie game developed for Global Game Jam | Unity, C# |
 
 ---
 
