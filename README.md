@@ -23,21 +23,20 @@
 
 ---
 
-## 🚀 About Me:
+## About Me:
 
 I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, **Deep Learning**, and **Cloud Engineering**. I love building innovative solutions that make a real impact.
 
-- 🧠 **Full Stack Developer** experienced in **MERN Stack**
-- 🚀 Passionate about **Deep Learning** and **UI/UX Design**
-- ☁️ Cloud enthusiast working with **AWS**, **Google Cloud**, and **containerized deployments**
-- 🎯 Always looking to collaborate on **impactful open-source projects**
-- 📍 Based in **Patna, Bihar, India**
-- 🌱 Currently learning **Kubernetes** and **Microservices Architecture**
-- 💡 Fun fact: I love participating in **hackathons** and **game jams**!
+-  **Full Stack Developer** experienced in **MERN Stack**
+- Passionate about **Deep Learning** and **UI/UX Design**
+- Cloud enthusiast working with **AWS**, **Google Cloud**, and **containerized deployments**
+- Always looking to collaborate on **impactful open-source projects**
+- Based in **Patna, Bihar, India**
+- Currently learning **Kubernetes** and **Microservices Architecture**
 
 ---
 
-## 🛠️ Tech Stack:
+## Tech Stack:
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -59,7 +58,9 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<!--
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+-->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -70,18 +71,18 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
 
 ---
 
-## 🚀 Featured Projects:
+## Featured Projects:
 
 |  Project |  Description | 💻 Tech Stack |
 |-----------|---------------|---------------|
-| **🎯 Milestone** | Comprehensive freelancing ecosystem connecting employers, freelancers, and institutions through secure milestone-based payments. Features real-time chat, skill verification, and admin-led dispute resolution. | Node.js, Express.js, MongoDB |
-| **🎮 Witch's Curse** | Creative indie game developed for Global Game Jam | Unity, C# |
-| **🌾 Crop Yield Predictor** | ML model estimating crop yields from real-world datasets | Python, Scikit-learn, Flask |
-| **📄 Resume Screener** | NLP tool to evaluate resumes based on job descriptions | Python, NLTK, Streamlit |
+| **Milestone** | Comprehensive freelancing ecosystem connecting employers, freelancers, and institutions through secure milestone-based payments. Features real-time chat, skill verification, and admin-led dispute resolution. | Node.js, Express.js, MongoDB |
+| **Witch's Curse** | Creative indie game developed for Global Game Jam | Unity, C# |
+| **Crop Yield Predictor** | ML model estimating crop yields from real-world datasets | Python, Scikit-learn, Flask |
+| **Resume Screener** | NLP tool to evaluate resumes based on job descriptions | Python, NLTK, Streamlit |
 
 ---
 
-## 📊 GitHub Statistics:
+## GitHub Statistics:
 
 <div align="center">
   <img width="80%" src="https://github-readme-stats.vercel.app/api?username=amanraj069&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
@@ -106,7 +107,7 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
 
 ---
 
-## 🏆 GitHub Achievements:
+## GitHub Achievements:
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amanraj069&theme=algolia&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
@@ -114,7 +115,7 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
 
 ---
 
-## 📈 Development Breakdown:
+## Development Breakdown:
 
 <!--START_SECTION:waka-->
 ```text
@@ -127,7 +128,7 @@ CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░
 
 ---
 
-## 🎯 Currently Focusing on:
+## Currently Focusing on:
 
 - Working on **Next.js 14** and **Server Actions**
 - Learning **Kubernetes** and **Microservices Architecture**
@@ -137,7 +138,7 @@ CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+## Let's Connect & Collaborate!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amanraj-iiits">
