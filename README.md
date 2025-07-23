@@ -2,13 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=ffffff&center=true&vCenter=true&width=700&height=60&lines=Hey,+I'm+Aman+Raj;Full+Stack+%7C+DL+%7C+Cloud;Building+the+Future+with+Code" alt="Typing SVG" />
 </div>
 
+<!--
+
 <p align="center"> 
   Visitors count
 <br>
 <img src="https://profile-counter.glitch.me/amanraj069/count.svg" />
 </p>
 
-<!--
 <p align="center">
   <img src="https://img.shields.io/github/stars/amanraj069?style=social" alt="GitHub Stars" />
   <a href="https://www.linkedin.com/in/amanraj-iiits">
@@ -119,10 +120,10 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░░░░░   48.2%
-Python       8 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   31.8%
-TypeScript   3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   14.5%
-CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   5.5%
+TypeScript   25 hrs 45 mins  ███████████████████████░░   47.7%
+JavaScript   17 hrs 30 mins  █████████████████░░░░░░░░   32.4%
+Python        8 hrs 15 mins  ███████░░░░░░░░░░░░░░░░░░   15.3%
+CSS           2 hrs 30 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   4.6%
 ```
 <!--END_SECTION:waka-->
 
@@ -131,7 +132,7 @@ CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░
 ## Currently Focusing on:
 
 - Working on **Next.js 14** and **Server Actions**
-- Learning **Kubernetes** and **Microservices Architecture**
+- Learning **Docker**,**Kubernetes** and **Microservices Architecture**
 - Looking to collaborate on **Open Source Projects**
 - Ask me about **MERN**, **Deep Learning**, or **Cloud**
 - How to reach me: **amanraj3567@gmail.com**
