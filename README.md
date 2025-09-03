@@ -1,8 +1,8 @@
-<div align="center">
+<!--<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=ffffff&center=true&vCenter=true&width=700&height=60&lines=Hey,+I'm+Aman+Raj;Full+Stack+%7C+DL+%7C+Cloud;Building+the+Future+with+Code" alt="Typing SVG" />
 </div>
 
-<!--
+
 
 <p align="center"> 
   Visitors count
@@ -26,15 +26,18 @@
 
 ## About Me:
 
-I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, **Deep Learning**, and **Cloud Engineering**. I love building innovative solutions that make a real impact.
+I love turning ideas into impactful solutions. I thrive at the intersection of **code, design, and innovation**.
 
--  **Full Stack Developer** experienced in **MERN Stack**
-- Passionate about **Deep Learning** and **UI/UX Design**
-- Cloud enthusiast working with **AWS**, **Google Cloud**, and **containerized deployments**
-- Always looking to collaborate on **impactful open-source projects**
-- Based in **Patna, Bihar, India**
-- Currently learning **Kubernetes** and **Microservices Architecture**
+## What I Do  
+- Build robust web applications with the **MERN Stack**  
+- Explore the world of **Deep Learning** to solve real-world challenges  
+- Craft intuitive and aesthetic **UI/UX designs**  
+- Deploy and scale apps on **AWS, Google Cloud, and containerized environments**  
 
+## Beyond the Code  
+- Open-source believer, always ready to collaborate on projects that matter  
+- Currently mastering **Kubernetes** and **Microservices Architecture**  
+- Based in **Patna, Bihar, India** — building global solutions from the heart of India
 ---
 
 ## Tech Stack:
@@ -59,9 +62,7 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-<!--
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
--->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -120,14 +121,14 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN Stack**, 
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   25 hrs 45 mins  ███████████████████████░░   47.7%
-JavaScript   17 hrs 30 mins  █████████████████░░░░░░░░   32.4%
-Python        8 hrs 15 mins  ███████░░░░░░░░░░░░░░░░░░   15.3%
-CSS           2 hrs 30 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   4.6%
+TypeScript   30 hrs 10 mins  ██████████████████████░░░   48.9%
+JavaScript   18 hrs 40 mins  ████████████████░░░░░░░░░   30.2%
+Python        9 hrs 05 mins  ████████░░░░░░░░░░░░░░░░░   14.7%
+CSS           3 hrs 00 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   6.2%
 ```
 <!--END_SECTION:waka-->
 
----
+<!--
 
 ## Currently Focusing on:
 
@@ -137,7 +138,7 @@ CSS           2 hrs 30 mins  █░░░░░░░░░░░░░░░░
 - Ask me about **MERN**, **Deep Learning**, or **Cloud**
 - How to reach me: **amanraj3567@gmail.com**
 
----
+-->
 
 ## Let's Connect & Collaborate!
 
