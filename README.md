@@ -28,13 +28,13 @@
 
 I love turning ideas into impactful solutions. I thrive at the intersection of **code, design, and innovation**.
 
-> What I Do
+>> What I Do
   - Build robust web applications with the **MERN Stack**  
   - Explore the world of **Deep Learning** to solve real-world challenges  
   - Craft intuitive and aesthetic **UI/UX designs**  
   - Deploy and scale apps on **AWS, Google Cloud, and containerized environments**  
 
-> Beyond the Code**
+>> Beyond the Code
   - Open-source believer, always ready to collaborate on projects that matter  
   - Currently mastering **Kubernetes** and **Microservices Architecture**  
   - Based in **Patna, Bihar, India** — building global solutions from the heart of India
