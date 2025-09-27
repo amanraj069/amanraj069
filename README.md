@@ -112,7 +112,7 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
 ## GitHub Achievements:
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amanraj069&theme=algolia&no-bg=true&no-frame=true&column=2&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amanraj069&theme=algolia&no-bg=true&no-frame=true&column=3&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 ---
