@@ -112,7 +112,7 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
 ## GitHub Achievements:
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amanraj069&theme=algolia&no-bg=true&no-frame=true&column=4&max=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amanraj069&theme=algolia&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -121,11 +121,14 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   30 hrs 10 mins  ██████████████████████░░░   48.9%
-JavaScript   18 hrs 40 mins  ████████████████░░░░░░░░░   30.2%
-Python        9 hrs 05 mins  ████████░░░░░░░░░░░░░░░░░   14.7%
-CSS           3 hrs 00 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   6.2%
+TypeScript   136 hrs 00 mins  ████████████████████░░░░░░░░░   58.4%
+JavaScript    58 hrs 49 mins  ██████████░░░░░░░░░░░░░░░░░░   25.3%
+Python        28 hrs 37 mins  ██████░░░░░░░░░░░░░░░░░░░░░   12.3%
+CSS            9 hrs 26 mins  █░░░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
+
 ```
+
+
 <!--END_SECTION:waka-->
 
 <!--
