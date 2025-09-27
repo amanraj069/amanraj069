@@ -35,8 +35,6 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
 ### Beyond the Code
   - Open-source believer, always ready to collaborate on projects that matter  
   - Currently mastering **Kubernetes** and **Microservices Architecture**  
-  - Based in **Patna, Bihar, India** — building global solutions from the heart of India
-
 ---
 
 ## Tech Stack:
@@ -76,6 +74,7 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
 
 |  Project |  Description | 💻 Tech Stack |
 |-----------|---------------|---------------|
+| **zeroGravity** | An everyday minimal tool for students | Next.JS, Node.JS, Mongo, Socket.io |
 | **Milestone** | Comprehensive freelancing ecosystem connecting employers, freelancers, and institutions through secure milestone-based payments. Features real-time chat, skill verification, and admin-led dispute resolution. | Node.js, Express.js, MongoDB |
 | **Witch's Curse** | Creative indie game developed for Global Game Jam | Unity, C# |
 | **Crop Yield Predictor** | ML model estimating crop yields from real-world datasets | Python, Scikit-learn, Flask |
@@ -113,7 +112,7 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
 ## GitHub Achievements:
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amanraj069&theme=algolia&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amanraj069&theme=algolia&no-bg=true&no-frame=true&column=2&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 ---
