@@ -1,8 +1,7 @@
-<!--<div align="center">
+<!--
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=ffffff&center=true&vCenter=true&width=700&height=60&lines=Hey,+I'm+Aman+Raj;Full+Stack+%7C+DL+%7C+Cloud;Building+the+Future+with+Code" alt="Typing SVG" />
 </div>
-
-
 
 <p align="center"> 
   Visitors count
@@ -34,7 +33,8 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
 
 ### Beyond the Code
   - Open-source believer, always ready to collaborate on projects that matter  
-  - Currently mastering **Kubernetes** and **Microservices Architecture**  
+  - Currently mastering **Kubernetes** and **Microservices Architecture**
+ 
 ---
 
 ## Tech Stack:
@@ -90,9 +90,11 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
 </div>
 -->
 
+<!--
 <div align="center">
   <img width="80%" src="https://streak-stats.demolab.com/?user=amanraj069&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
+-->
 
 <div align="center">
   <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanraj069&theme=tokyonight" alt="Profile Summary" />
@@ -108,26 +110,6 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
 </div>
 
 ---
-
-## GitHub Achievements:
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amanraj069&theme=algolia&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
-
----
-
-## Development Breakdown:
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   136 hrs 00 mins  ████████████████████░░░░░░░░░   58.4%
-JavaScript    58 hrs 49 mins  ██████████░░░░░░░░░░░░░░░░░░   25.3%
-Python        28 hrs 37 mins  ██████░░░░░░░░░░░░░░░░░░░░░   12.3%
-CSS            9 hrs 26 mins  █░░░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
-
-```
-
 
 <!--END_SECTION:waka-->
 
