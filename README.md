@@ -74,8 +74,8 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
 
 |  Project |  Description | 💻 Tech Stack |
 |-----------|---------------|---------------|
-| **zeroGravity** | An everyday minimal tool for students | Next.JS, Node.JS, Mongo, Socket.io |
-| **Milestone** | Comprehensive freelancing ecosystem connecting employers, freelancers, and institutions through secure milestone-based payments. Features real-time chat, skill verification, and admin-led dispute resolution. | Node.js, Express.js, MongoDB |
+| **zeroGravity** | An Everyday Productivity focused Tool for Students | Next.JS, Node.JS, Mongo, Socket.io |
+| **Milestone** | Comprehensive freelancing Ecosystem | Node.js, Express.js, MongoDB |
 | **Witch's Curse** | Creative indie game developed for Global Game Jam | Unity, C# |
 | **Crop Yield Predictor** | ML model estimating crop yields from real-world datasets | Python, Scikit-learn, Flask |
 | **Resume Screener** | NLP tool to evaluate resumes based on job descriptions | Python, NLTK, Streamlit |
@@ -104,10 +104,10 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amanraj069&theme=tokyonight" alt="Repos per Language" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanraj069&theme=tokyonight" alt="Most Commit Language" />
 </div>
--->
 <div align="center">
   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=amanraj069&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="Activity Graph" />
 </div>
+-->
 
 ---
 
