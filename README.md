@@ -21,52 +21,55 @@
 </p>
 -->
 
-## About Me:
+## About Me ([Portfolio](https://portfolio-aman-raj.vercel.app/)):
 
 I love turning ideas into impactful solutions. I thrive at the intersection of **code, design, and innovation**.
 
-### What I Do
-  - Build robust web applications with the **MERN Stack**  
-  - Explore the world of **Deep Learning** to solve real-world challenges  
-  - Craft intuitive and aesthetic **UI/UX designs**  
-  - Deploy and scale apps on **AWS, Google Cloud, and containerized environments**  
-
-### Beyond the Code
-  - Open-source believer, always ready to collaborate on projects that matter  
-  - Currently mastering **Kubernetes** and **Microservices Architecture**
- 
+### What I Do:
+  - Engineer scalable, high-performance full-stack applications with the MERN stack.
+  - Architect robust, distributed systems built for real-world scale.
+  - Craft intuitive user experiences and deploy resilient cloud-native solutions.
+  - Reach me at: **amanraj3567@gmail.com**.
+    
 ---
 
 ## Tech Stack:
 
-### Frontend
+### Core Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Database
+### Backend & Distributed Systems
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases & Caching
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Cloud & DevOps
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
@@ -74,17 +77,17 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
 
 |  Project |  Description | 💻 Tech Stack |
 |-----------|---------------|---------------|
-| **zeroGravity** | An Everyday Productivity focused Tool for Students | Next.JS, Node.JS, Mongo, Socket.io |
-| **Milestone** | Comprehensive freelancing Ecosystem | Node.js, Express.js, MongoDB |
+| **[zeroGravity](https://zerogravity.vercel.app/)** | An Everyday Productivity focused Tool for Students | Next.JS, Node.JS, Mongo, Socket.io |
+| **Milestone** | Comprehensive freelancing Ecosystem | React.js, Express.js, MongoDB |
 | **Witch's Curse** | Creative indie game developed for Global Game Jam | Unity, C# |
 | **Crop Yield Predictor** | ML model estimating crop yields from real-world datasets | Python, Scikit-learn, Flask |
 | **Resume Screener** | NLP tool to evaluate resumes based on job descriptions | Python, NLTK, Streamlit |
 
----
 
-## GitHub Statistics:
+
 
 <!--
+## GitHub Statistics:
 <div align="center">
   <img width="80%" src="https://github-readme-stats.vercel.app/api?username=amanraj069&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </div>
@@ -96,9 +99,9 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
 </div>
 -->
 
-<div align="center">
+<!-- <div align="center">
   <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanraj069&theme=tokyonight" alt="Profile Summary" />
-</div>
+</div> -->
 
 <!--<div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amanraj069&theme=tokyonight" alt="Repos per Language" />
@@ -108,8 +111,6 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=amanraj069&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="Activity Graph" />
 </div>
 -->
-
----
 
 <!--END_SECTION:waka-->
 
@@ -125,6 +126,7 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
 
 -->
 
+<!-- 
 ## Let's Connect & Collaborate!
 
 <div align="center">
@@ -137,10 +139,8 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
   <a href="https://github.com/amanraj069">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
+</div> -->
 
----
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
-</div>
+</div> -->
