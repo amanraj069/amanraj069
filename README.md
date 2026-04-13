@@ -78,7 +78,7 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
 |  Project |  Description | 💻 Tech Stack |
 |-----------|---------------|---------------|
 | **[zeroGravity](https://zerogravity.vercel.app/)** | An Everyday Productivity focused Tool for Students | Next.JS, Node.JS, Mongo, Socket.io |
-| **Milestone** | Comprehensive freelancing Ecosystem | React.js, Express.js, MongoDB |
+| **[Milestone](https://milestone-aman-raj.vercel.app/)**| Comprehensive freelancing Ecosystem | React.js, Express.js, MongoDB |
 | **Witch's Curse** | Creative indie game developed for Global Game Jam | Unity, C# |
 | **Crop Yield Predictor** | ML model estimating crop yields from real-world datasets | Python, Scikit-learn, Flask |
 | **Resume Screener** | NLP tool to evaluate resumes based on job descriptions | Python, NLTK, Streamlit |
