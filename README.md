@@ -48,7 +48,6 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Apache Solr](https://img.shields.io/badge/Apache_Solr-D9411E?style=for-the-badge&logo=apachesolr&logoColor=white)
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -68,7 +67,6 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
 ## Featured Projects:
@@ -77,7 +75,6 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
 |-----------|---------------|---------------|
 | **[zeroGravity](https://zerogravity.aman-raj.me/)** | An Everyday Productivity focused AI Tool for Students | Next.JS, Node.JS, Mongo, Socket.io |
 | **[Milestone](https://milestone-app.aman-raj.me/)**| Comprehensive freelancing Ecosystem | React.js, Express.js, MongoDB |
-| **Witch's Curse** | Creative indie game developed for Global Game Jam | Unity, C# |
 | **Crop Yield Predictor** | ML model estimating crop yields from real-world datasets | Python, Scikit-learn, Flask |
 | **Resume Screener** | NLP tool to evaluate resumes based on job descriptions | Python, NLTK, Streamlit |
 
