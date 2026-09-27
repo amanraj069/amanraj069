@@ -25,58 +25,40 @@
 I love turning ideas into impactful solutions. I thrive at the intersection of **code, design, and AI**.
 ### What I Do:
   - Engineer scalable, high-performance full-stack applications with the MERN stack.
-  - Architect robust, distributed systems and AI-powered apps using RAG pipelines & LangChain.
+  - Architect robust, distributed systems and AI-powered apps using RAG pipelines, LangChain & LangGraph.
   - Craft intuitive user experiences and deploy resilient cloud-native solutions.
   - Reach me at: **amanraj3567@gmail.com**.
-    
----
+
+--
 ## Tech Stack:
-### Core Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-### AI/ML
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=for-the-badge)
-### Backend & Distributed Systems
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### Languages
+C++, C, Java, JavaScript, TypeScript
+
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-### Databases & Caching
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+React.js, Next.js, HTML5, CSS3, Tailwind CSS
+
+### Backend & Databases
+Node.js, Express.js, MongoDB, MySQL, PostgreSQL, Redis, Kafka
+
 ### Cloud & DevOps
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
----
+Docker, CI/CD, GitHub Actions, Git, Amazon Web Services (EC2, S3, Lambda)
+
+### Core CS
+Data Structures & Algorithms, Linux Kernel, OOP, OS, CN, System Design, DBMS, Distributed Systems
+
+### AI/ML & Automation
+Generative AI, Agents, Advanced RAG, LangChain, LangGraph, AgenticAI, n8n
+
+--
 
 ## Featured Projects:
 
-|  Project |  Description | Tech Stack |
-|-----------|---------------|---------------|
-| **[zeroGravity](https://zerogravity.aman-raj.me/)** | An Everyday Productivity focused AI Tool for Students | Next.JS, Node.JS, Mongo, Socket.io |
-| **[Milestone](https://milestone-app.aman-raj.me/)**| Comprehensive freelancing Ecosystem | React.js, Express.js, MongoDB |
-| **Crop Yield Predictor** | ML model estimating crop yields from real-world datasets | Python, Scikit-learn, Flask |
-| **Resume Screener** | NLP tool to evaluate resumes based on job descriptions | Python, NLTK, Streamlit |
+| Project                                             | Description                                           | Tech Stack                              |
+| --------------------------------------------------- | ----------------------------------------------------- | --------------------------------------- |
+| **[Intake](https://intake.aman-raj.me/)**           | Full-stack AI-powered Nutrition Tracking App          | Next.js, Express.js, MongoDB, Gemini AI |
+| **[zeroGravity](https://zerogravity.aman-raj.me/)** | An Everyday Productivity focused AI Tool for Students | Next.js, Node.js, MongoDB, Socket.io    |
+| **[Milestone](https://milestone-app.aman-raj.me/)** | Comprehensive freelancing Ecosystem                   | React.js, Express.js, MongoDB           |
 
 
 
