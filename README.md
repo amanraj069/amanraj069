@@ -29,29 +29,20 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
   - Craft intuitive user experiences and deploy resilient cloud-native solutions.
   - Reach me at: **amanraj3567@gmail.com**.
 
-## Tech Stack:
+## Tech Stack
 
-### Languages
-C++, C, Java, JavaScript, TypeScript
+| **Category**            | **Technologies**                                                                                  |
+| ----------------------- | ------------------------------------------------------------------------------------------------- |
+| **Languages**           | C++, C, Java, JavaScript, TypeScript                                                              |
+| **Frontend**            | React.js, Next.js, HTML5, CSS3, Tailwind CSS                                                      |
+| **Backend & Databases** | Node.js, Express.js, MongoDB, MySQL, PostgreSQL, Redis, Kafka                                     |
+| **Cloud & DevOps**      | Docker, CI/CD, GitHub Actions, Git, Amazon Web Services (EC2, S3, Lambda)                         |
+| **Core CS**             | Data Structures & Algorithms, Linux Kernel, OOP, OS, CN, System Design, DBMS |
+| **AI/ML & Automation**  | Generative AI, Agents, Advanced RAG, LangChain, LangGraph, AgenticAI, n8n                         |
 
-### Frontend
-React.js, Next.js, HTML5, CSS3, Tailwind CSS
+## Featured Projects
 
-### Backend & Databases
-Node.js, Express.js, MongoDB, MySQL, PostgreSQL, Redis, Kafka
-
-### Cloud & DevOps
-Docker, CI/CD, GitHub Actions, Git, Amazon Web Services (EC2, S3, Lambda)
-
-### Core CS
-Data Structures & Algorithms, Linux Kernel, OOP, OS, CN, System Design, DBMS, Distributed Systems
-
-### AI/ML & Automation
-Generative AI, Agents, Advanced RAG, LangChain, LangGraph, AgenticAI, n8n
-
-## Featured Projects:
-
-| Project                                             | Description                                           | Tech Stack                              |
+| **Project**                                         | **Description**                                       | **Tech Stack**                          |
 | --------------------------------------------------- | ----------------------------------------------------- | --------------------------------------- |
 | **[Intake](https://intake.aman-raj.me/)**           | Full-stack AI-powered Nutrition Tracking App          | Next.js, Express.js, MongoDB, Gemini AI |
 | **[zeroGravity](https://zerogravity.aman-raj.me/)** | An Everyday Productivity focused AI Tool for Students | Next.js, Node.js, MongoDB, Socket.io    |
