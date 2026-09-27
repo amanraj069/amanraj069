@@ -29,7 +29,6 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
   - Craft intuitive user experiences and deploy resilient cloud-native solutions.
   - Reach me at: **amanraj3567@gmail.com**.
 
---
 ## Tech Stack:
 
 ### Languages
@@ -49,8 +48,6 @@ Data Structures & Algorithms, Linux Kernel, OOP, OS, CN, System Design, DBMS, Di
 
 ### AI/ML & Automation
 Generative AI, Agents, Advanced RAG, LangChain, LangGraph, AgenticAI, n8n
-
---
 
 ## Featured Projects:
 
