@@ -44,11 +44,11 @@ I love turning ideas into impactful solutions. I thrive at the intersection of *
 
 | **Project** | **Description** | **Tech Stack** |
 | --- | --- | --- |
-| **[Vaari](https://github.com/amanraj069/Vaari)** | Agricultural coordination platform that helps Punjab farmers secure machinery dates for wheat sowing after paddy harvest, reducing stubble burning. | TypeScript, Node.js, AWS, OR-Tools |
-| **[zeroGravity](https://zerogravity.aman-raj.me/)** | An everyday productivity-focused AI tool for students | Next.js, Node.js, MongoDB, Socket.io |
+| **[zeroGravity](https://zerogravity.aman-raj.me/)** | An everyday productivity-focused AI tool for students built for large scale | Next.js, Node.js, MongoDB, Socket.io |
 | **[KeyStone](https://github.com/amanraj069/KeyStone)** | An enterprise-grade company brain that maps who knows what across an organization, built on a graph database. | TypeScript, Node.js, FalkorDB |
-| **[Intake](https://intake.aman-raj.me/)** | Full-stack AI-powered Nutrition Tracking App | Next.js, Express.js, MongoDB, Gemini AI |
+| **[Intake](https://intake.aman-raj.me/)** | Full-stack AI-powered Nutrition Tracking App with Tool-Calling Agents & Business-Optimisations| Next.js, Express.js, MongoDB, Gemini AI |
 | **[Milestone](https://milestone-app.aman-raj.me/)** | Comprehensive freelancing ecosystem | React.js, Express.js, MongoDB |
+| **[Vaari](https://github.com/amanraj069/Vaari)** | Agricultural coordination platform that helps Punjab farmers secure machinery dates for wheat sowing after paddy harvest, reducing stubble burning. | TypeScript, Node.js, AWS, OR-Tools |
 
 
 
